@@ -72,4 +72,8 @@ We encourage you to use:
 
 - a public repository to store your app. Make sure you send us the link.
 
+- the English language for your code names, documentation and comments.
+
 - a README.md file with the **set up instructions and version requirements** in your repository so that we can understand **how to run your code**. Please write it assuming we do not know anything about what your API system does.
+
+*Note: anything not described here can be assumed as you wish.*
