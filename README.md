@@ -1,6 +1,6 @@
 # Backend Hello World
 
-This repo contains the general requirements and description of a simple API project intended to evaluate a Backend Deveoper candidate.
+This repo contains the general requirements and description of a simple API project intended to evaluate a Backend Developer candidate.
 
 ## Objective
 
