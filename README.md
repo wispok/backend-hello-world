@@ -18,6 +18,8 @@ Your system must serve the following endpoints:
 
 - `/status`: token-based request, overall system status.
 
+*Note: anything token-based means that the auth token is required. You can use any library to generate unique string tokens.*
+
 ## Test Cases
 
 Below you will see some examples of input and output on how your program will be tested:
